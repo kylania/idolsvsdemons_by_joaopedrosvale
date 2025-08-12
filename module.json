@@ -1,9 +1,9 @@
 {
-  "id": "idols-vs-demons-compendium",
-  "title": "Idols vs. Demons Compendium",
-  "version": "1.0.0",
+  "id": "idols-vs-demons-campaign-frame",
+  "title": "Idols vs. Demons Campaign Frame",
+  "version": "1.1",
   "manifest": "https://github.com/kylania/idolsvsdemons_by_joaopedrosvale/releases/latest/download/module.json",
-  "download": "https://github.com/kylania/idolsvsdemons_by_joaopedrosvale/releases/download/1.0.0/module.zip",
+  "download": "https://github.com/kylania/idolsvsdemons_by_joaopedrosvale/releases/download/1.1/module.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -15,7 +15,7 @@
       "flags": {}
     },
     {
-      "name": "Foundry mod by kylania",
+      "name": "Foundry VTT module by kylania",
       "flags": {}
     }
   ],
@@ -46,5 +46,5 @@
       }
     }
   ],
-  "description": "Idols by day, demon hunters by night—balancing dazzling performances that seal evil portals with deadly secret missions where fame and fate hang by a thread"
+  "description": "Idols by day, demon hunters by night—balancing dazzling performances that seal evil portals with deadly secret missions where fame and fate hang by a thread."
 }
