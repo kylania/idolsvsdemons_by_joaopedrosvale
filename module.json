@@ -1,0 +1,48 @@
+{
+  "id": "idols-vs-demons-compendium",
+  "title": "Idols vs. Demons Compendium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "joaopedrosvale",
+      "url": "https://www.reddit.com/r/daggerheart/comments/1mnqizm/kpop_demon_hunters_campaign_frame/",
+      "flags": {}
+    },
+    {
+      "name": "Foundry mod by kylania",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "ivd_ancestries",
+      "label": "IvD Ancestries",
+      "path": "packs/ivd_ancestries",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ivd_campaign_frame",
+      "label": "IvD Campaign Frame",
+      "path": "packs/ivd_campaign_frame",
+      "type": "JournalEntry",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": "Idols by day, demon hunters by night—balancing dazzling performances that seal evil portals with deadly secret missions where fame and fate hang by a thread"
+}
